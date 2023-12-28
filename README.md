@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mlew512
-- 👀 I’m interested in Rock climbing, gravel biking, and creating beautiful things
+- 👀 I’m interested in Rock climbing, healthcare, gravel biking, and creating awesome stuff
 - 🌱 I’m currently learning Fullstack web development
 - 💞️ I’m looking to collaborate on apps, webites, and projects
 - 📫 How to reach me mattlewis2014@gmail.com
